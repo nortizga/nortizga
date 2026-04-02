@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://your-image-url.com/image.png" alt="header" width="100%" />
+</p>
 
-<!--
-**nortizga/nortizga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there! 👋
 
-Here are some ideas to get you started:
+I build small projects in my free time—mostly around mental health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m also one of those people who voluntarily shows up to CrossFit at 5:30 AM… still not sure how that happened.
+
+At home, I’m owned by Alfie (my dog), who identifies as a king and demands long walks like it’s part of a royal contract.
+
+And when I’m not coding or being bossed around by Alfie, I play beach tennis. I’m a beginner, so my backhand is… a work in progress.
+
+
