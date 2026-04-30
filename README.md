@@ -2,9 +2,13 @@
 
 I build small projects in my free time—mostly around mental health.
 
-I’m also one of those people who voluntarily shows up to CrossFit at 5:30 AM… still not sure how that happened.
-At home, I’m owned by Alfie (my dog), who identifies as a king and demands long walks like it’s part of a royal contract.
-And when I’m not coding or being bossed around by Alfie, I play beach tennis. I’m a beginner, so my backhand is… a work in progress.
+I’m a Software Engineer with a backend background in fintech, banking, and information systems, where I’ve worked on designing and building APIs and data-driven applications with a strong focus on reliability and clarity in system behavior.
+ 
+My experience includes working with GraphQL APIs, backend services, and collaborating across teams to deliver scalable solutions that meet real business needs. I enjoy debugging complex systems and communicating technical decisions clearly to build trust in the output.
+
+I’m actively developing serverless applications using AWS Lambda, API Gateway, DynamoDB, and Cognito, and defining infrastructure using AWS CDK. I’m also experimenting with integrating AI capabilities into these systems to create more intelligent and automated user experiences.
+
+My goal is to bridge backend engineering, cloud infrastructure, and AI—building scalable systems while improving how they are deployed, automated, and enhanced with intelligent capabilities.
 
 <p align="center">
   <img src="https://github.com/nortizga/nortizga/blob/main/strong.png" height="500px" width="500px" alt="header"/>
