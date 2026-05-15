@@ -6,16 +6,12 @@ I’ve worked across fintech, banking, and education, building APIs and data-dri
 
 Right now, I spend most of my time working with AWS serverless architectures (Lambda, API Gateway, DynamoDB, Cognito) and NestJS for backend development. I also use AI-assisted development in my daily workflow to build and iterate faster while maintaining code quality and system design focus.
 
----
-
 ## What I’m working on
 
 - Building serverless applications with AWS
 - Designing and developing scalable APIs with NestJS
 - Adding AI features into applications (LLM-based workflows and automation)
 - Expanding SkillCheck with Terraform and infrastructure automation
-
----
 
 ## Interests
 
@@ -25,13 +21,9 @@ Right now, I spend most of my time working with AWS serverless architectures (La
 - Infrastructure as code (Terraform)
 - Building tools that are simple, useful, and scalable
 
----
-
 ## Current goal
 
 Build backend and cloud systems that are scalable and reliable, and use AI to make them more efficient and automated.
-
----
 
 ## Tech stack
 
