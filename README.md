@@ -1,12 +1,12 @@
 # Hello there! 
 
-I build small projects in my free time—mostly around mental health.
+I like building small projects in my free time, usually around mental health and improving everyday experiences through software.
 
-I’m a Software Engineer with a backend background in fintech, banking, and education, where I’ve worked on designing and building APIs and data-driven applications with a strong focus on reliability and clarity in system behavior.
+I’m a Software Engineer with a backend-leaning full-stack background in fintech, banking, and education. Most of my work has been focused on designing APIs and building data-driven systems where reliability and clear system behavior matter a lot.
 
-I’m actively developing serverless applications using AWS Lambda, API Gateway, DynamoDB, and Cognito. I’m also experimenting with integrating AI capabilities into these systems to create more intelligent and automated user experiences.
+Right now, I’m working more deeply with serverless systems using AWS (Lambda, API Gateway, DynamoDB, Cognito) and NestJS. A big part of my current workflow is AI-assisted development, which I use daily to move faster while still focusing on system design and code quality.
 
-My goal is to bridge backend engineering, cloud infrastructure, and AI—building scalable systems while improving how they are deployed, automated, and enhanced with intelligent capabilities.
+My goal is to build backend and cloud systems that are scalable and reliable, and use AI to make them more efficient and automated.
 
 <p align="center">
   <img src="https://github.com/nortizga/nortizga/blob/main/strong.png" height="500px" width="500px" alt="header"/>
