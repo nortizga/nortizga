@@ -1,41 +1,67 @@
 # Hi, I’m Nicole Ortiz 👋
 
-I’m a Software Engineer focused on backend systems, cloud infrastructure, and full-stack development.
+I'm a Software Engineer passionate about building modern full-stack applications that are scalable, user-centered, and cloud-native.
 
-I’ve worked across fintech, banking, and education, building APIs and data-driven systems where reliability, clarity, and scalability matter.
+I've worked across fintech, banking, and education, designing APIs, building cloud services, and creating data-driven experiences where reliability, simplicity, and maintainability matter.
 
-Right now, I spend most of my time working with AWS serverless architectures (Lambda, API Gateway, DynamoDB, Cognito) and NestJS for backend development. I also use AI-assisted development in my daily workflow to build and iterate faster while maintaining code quality and system design focus.
+Today, I primarily work with **TypeScript**, **Next.js**, **React**, and **AWS Serverless** (Lambda, API Gateway, DynamoDB, Cognito) to build production-ready applications. AI development assistants are a regular part of my workflow, helping me prototype faster, automate repetitive tasks, and focus more on software architecture, product design, and delivering value.
 
-## What I’m working on
+Outside of work, I enjoy building products that have a positive impact on people's lives, particularly tools that support mental health, emotional well-being, and personal growth.
 
-- Building serverless applications with AWS
-- Designing and developing scalable APIs with NestJS
-- Adding AI features into applications (LLM-based workflows and automation)
-- Expanding SkillCheck with Terraform and infrastructure automation
+---
 
-## Interests
+## 🚀 What I'm working on
 
-- Backend engineering & distributed systems
-- Cloud architecture (AWS)
-- AI-assisted software development
-- Infrastructure as code (Terraform)
-- Building tools that are simple, useful, and scalable
+- Building cloud-native applications with AWS Serverless
+- Developing scalable APIs with NestJS and TypeScript
+- Building modern web applications with Next.js, React, and Vite
+- Exploring AI-powered features, agentic workflows, and LLM integrations
+- Growing **Skill Compass**, a mental wellness app inspired by DBT to help people build healthier habits and emotional resilience
 
-## Current goal
+---
 
-Build backend and cloud systems that are scalable and reliable, and use AI to make them more efficient and automated.
+## ❤️ Interests
 
-## Tech stack
+- Backend Engineering
+- Cloud Architecture (AWS)
+- AI-Assisted Software Development
+- Agentic AI & LLM Applications
+- Infrastructure as Code (Terraform)
+- Developer Experience
+- Mental Health Technology
+- Building products that solve real problems
 
-**Backend:** Node.js, NestJS, TypeScript, REST APIs  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Cloud:** AWS (Lambda, API Gateway, DynamoDB, Cognito), Serverless  
-**Databases:** PostgreSQL, DynamoDB  
-**DevOps:** Docker, CI/CD, Git  
-**Learning:** Terraform, AI integrations, system design
+---
+
+## 🎯 Current Goal
+
+Continue growing as a cloud and backend engineer while building AI-powered products that are reliable, scalable, and meaningful. I'm especially interested in creating technology that improves people's everyday lives through thoughtful design and evidence-based mental health tools.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+TypeScript • JavaScript • SQL
+
+**Frontend**  
+React • Next.js • Vite • Tailwind CSS • shadcn/ui
+
+**Backend**  
+Node.js • NestJS • REST APIs
+
+**Cloud**  
+AWS Lambda • API Gateway • DynamoDB • Cognito • EventBridge • Serverless Architecture
+
+**Databases**  
+PostgreSQL • DynamoDB
+
+**Tools**  
+Git • Docker • GitHub Actions • AI Development Assistants (Cursor, ChatGPT, Claude)
+
+**Currently Learning**  
+Terraform • AI Agents • System Design • Cloud Architecture
 
 <p align="center">
   <img src="https://github.com/nortizga/nortizga/blob/main/strong.png" height="500px" width="500px" alt="header"/>
 </p>
-
-
