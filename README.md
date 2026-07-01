@@ -4,7 +4,7 @@ I'm a Software Engineer passionate about building modern full-stack applications
 
 I've worked across fintech, banking, and education, designing APIs, building cloud services, and creating data-driven experiences where reliability, simplicity, and maintainability matter.
 
-Today, I primarily work with **TypeScript**, **Next.js**, **React**, and **AWS Serverless** (Lambda, API Gateway, DynamoDB, Cognito) to build production-ready applications. AI development assistants are a regular part of my workflow, helping me prototype faster, automate repetitive tasks, and focus more on software architecture, product design, and delivering value.
+Today, I primarily work with **TypeScript**, **Next.js**, **React**, and **AWS Serverless** (Lambda, DynamoDB) to build production-ready applications. AI development assistants are a regular part of my workflow, helping me prototype faster, automate repetitive tasks, and focus more on software architecture, product design, and delivering value.
 
 Outside of work, I enjoy building products that have a positive impact on people's lives, particularly tools that support mental health, emotional well-being, and personal growth.
 
