@@ -15,7 +15,7 @@ Outside of work, I enjoy building products that have a positive impact on people
 - Building cloud-native applications with AWS Serverless
 - Developing scalable APIs with NestJS and TypeScript
 - Building modern web applications with Next.js, React, and Vite
-- Growing **Skill Compass**, a mental wellness app inspired by DBT to help people build healthier habits and emotional resilience
+- Growing **Filled**, a mental wellness app inspired by DBT to help people build healthier habits and emotional resilience
 
 ---
 
